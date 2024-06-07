@@ -1,5 +1,5 @@
 module.exports = {
-  apss: [
+  apps: [
     {
       name: "backend",
       script: "dist/index.js",
